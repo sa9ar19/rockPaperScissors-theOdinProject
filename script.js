@@ -91,6 +91,7 @@ function newGame () {
     computerScore = 0
     playerScoreCard.innerText = 0
     computerScoreCard.innerHTML = 0
+    scoreText.innerHTML = "Let's Start"
 }
 
 
